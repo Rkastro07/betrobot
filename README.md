@@ -23,4 +23,7 @@ Voce tambem pode definir `ODDS_API_TOKEN` para enviar autenticacao Bearer. Se ne
 
 Defina a URL da sua API com `--url` ou `ODDS_API_URL` para usar o endpoint correto.
 
+
 Depois de gerar `odds.json`, execute `python interface.py` para visualizar as odds em uma página web simples em `http://localhost:5000`.
+
+
